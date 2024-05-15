@@ -120,7 +120,7 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-[https://youtube.com/shorts/WtLI8qDfOfU?si=ZQ_Imtr7LpOoB2vw](https://youtu.be/kkeahdXavBg?si=-uux32lsopP9OfhQ)
+https://youtu.be/kkeahdXavBg?si=-uux32lsopP9OfhQ
 
 <br/>
 <br/>
