@@ -86,22 +86,6 @@ if _name_ == '_main_':
     ep_chassis.move(x=0, y=0, z=0, xy_speed=1.3).wait_for_completed()
     ep_led.set_led(comp = "all",r=50,g=102,b=0,effect="on")
 
-
-
-
-
-
-
-
-    
-    
-    
-
-
-
-
-
-
     time.sleep(4)
     ep_camera.stop_video_stream()
     print("Stopped video streaming.....")
@@ -117,26 +101,16 @@ if _name_ == '_main_':
 Insert image here
 
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
 https://youtu.be/kkeahdXavBg?si=ZLR9Xtb8EcpHbnQ8
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
